@@ -24,7 +24,7 @@ int main(){
     
     // we run a if and else condition and run a binary search algorithm.
     
-     if (binary_search(array,array + 6,5)){ // we are searching for the number "5" in this array so if the condition runs then it will print out"number found"
+     if (binary_search(array,array + 7,5)){ // we are searching for the number "5" in this array so if the condition runs then it will print out"number found"
       cout<<"number found"<<endl;    
       }
       else{
